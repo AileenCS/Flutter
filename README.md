@@ -1,0 +1,2 @@
+# hola_mundo
+En esta practica se modifico ligeramente el codigo de prueba, para asegurarnos que nuestro equipo cuenta con las herramientas necesarias para realizar proximas aplicaciones y para comprender un poco su estructura.
